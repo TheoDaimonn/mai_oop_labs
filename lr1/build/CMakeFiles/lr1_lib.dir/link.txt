@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblr1_lib.a CMakeFiles/lr1_lib.dir/src/to32Binary.cpp.o
+/usr/bin/ranlib liblr1_lib.a

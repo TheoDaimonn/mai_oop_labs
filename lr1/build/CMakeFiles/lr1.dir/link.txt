@@ -1,0 +1,1 @@
+/usr/local/bin/c++  -Werror=maybe-uninitialized CMakeFiles/lr1.dir/main.cpp.o CMakeFiles/lr1.dir/src/to32Binary.cpp.o -o lr1 

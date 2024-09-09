@@ -1,0 +1,32 @@
+Start testing: Sep 09 15:16 UTC
+----------------------------------------------------------
+1/1 Testing: MyProjectTests
+1/1 Test: MyProjectTests
+Command: "/workspaces/mai_oop_labs/lr1/build/tests"
+Directory: /workspaces/mai_oop_labs/lr1/build
+"MyProjectTests" start time: Sep 09 15:16 UTC
+Output:
+----------------------------------------------------------
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from To32BinaryTest
+[ RUN      ] To32BinaryTest.HandlesPositiveNumbers
+[       OK ] To32BinaryTest.HandlesPositiveNumbers (0 ms)
+[ RUN      ] To32BinaryTest.HandlesNegativeNumbers
+[       OK ] To32BinaryTest.HandlesNegativeNumbers (0 ms)
+[ RUN      ] To32BinaryTest.HandlesZero
+[       OK ] To32BinaryTest.HandlesZero (0 ms)
+[----------] 3 tests from To32BinaryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"MyProjectTests" end time: Sep 09 15:16 UTC
+"MyProjectTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 09 15:16 UTC

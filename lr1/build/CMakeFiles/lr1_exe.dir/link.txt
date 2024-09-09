@@ -1,0 +1,1 @@
+/usr/local/bin/c++  -Werror=maybe-uninitialized CMakeFiles/lr1_exe.dir/main.cpp.o -o lr1_exe  liblr1_lib.a 
